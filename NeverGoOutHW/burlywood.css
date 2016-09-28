@@ -12,6 +12,7 @@ div.top{
     background-color: #f5f5dc;
     font-weight:bold;
     font-family:Tunga;
+    font-style:italic;
 }
 
 div.body{
@@ -23,16 +24,14 @@ div.body{
     height:inherit;
     background-color: #f5f5dc;
     text-align:center;
+    font-family: 'Indie Flower', cursive;
 
 }
 
-p{
-    font-family:Leelawadee;
-}
 
 ul{
     width: 100%;
-    height: 20px;
+    height: auto;
     text-align:center;
     list-style-type: none;
        
